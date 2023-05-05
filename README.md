@@ -7,7 +7,7 @@ src="https://camo.githubusercontent.com/abb0a7a6197ffbe011c0705b0fff8c494e9c4c58
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 💬 Ask me about **printf("Her..I will write about her for million years");**
+- 💬 Ask me about **printf("Hope");**
 
 - 📫 How to reach me **vishnusivan1000@gmail.com**
 
