@@ -7,7 +7,7 @@ src="https://camo.githubusercontent.com/abb0a7a6197ffbe011c0705b0fff8c494e9c4c58
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **printf("Pain");**
+- 💬 Ask me about anything
 
 - 📫 How to reach me **vishnusivan1000@gmail.com**
 
